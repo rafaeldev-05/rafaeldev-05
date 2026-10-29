@@ -99,6 +99,3 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
 
-## 📈 GitHub Contributions
-
-[![Rafael's GitHub contribution chart](https://ghchart.rshah.org/rafaeldev-05)](https://github.com/rafaeldev-05)
