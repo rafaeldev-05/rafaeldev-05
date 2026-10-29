@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rafael Freitas
 
-🚀 **Senior Software Engineer | JavaScript & Python Specialist**  
+🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
@@ -25,10 +25,10 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ### Backend & APIs
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" /
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" alt="Prisma" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp" alt="C#" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask" />
@@ -98,3 +98,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
+
+## 📈 GitHub Contributions
+
+[![Rafael's GitHub contribution chart](https://ghchart.rshah.org/rafaeldev-05)](https://github.com/rafaeldev-05)
