@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rafael Freitas
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Senior Software Engineer | Java & TypeScript Specialist**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **web & mobile applications**.  
